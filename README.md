@@ -1,4 +1,4 @@
-JBoss Log Manager Extended
+JBoss Log Manager Extended ![build status](https://travis-ci.org/iBlocksLimited/jboss-logmanager-ext.svg?branch=master-iblocks)
 ============
 
 This provides some extended support for the JBoss Log Manager. These are experiments that may eventually make it into
